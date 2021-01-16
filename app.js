@@ -9,7 +9,7 @@ app.get('/', function (req, res) {
   })
 
 app.get('/api', function (req, res) {
-    res.send(data.json)
+    res.render('data.json')
 })
 
 app.listen(3000)
