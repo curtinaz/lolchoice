@@ -8,6 +8,7 @@
 
 body {
     display: grid;
+    align-items: center;
 }
 
 body h1 {
