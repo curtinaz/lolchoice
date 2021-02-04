@@ -11,6 +11,8 @@ body {
     justify-content: center;
     align-content: center;
     text-align: center;
+
+    border: 2px solid black;
 }
 
 body h1 {
