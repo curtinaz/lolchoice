@@ -7,7 +7,7 @@
 }
 
 body {
-    
+    display: grid;
 }
 
 body h1 {
