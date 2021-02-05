@@ -18,7 +18,7 @@ body h1 {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
 
-    animation: fade duration timing-function delay iteration-count direction fill-mode;
+    animation: fade 0.5s timing-function delay iteration-count direction fill-mode;
 }
 
 /* Animations */
