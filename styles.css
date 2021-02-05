@@ -19,7 +19,7 @@ body h1 {
     font-weight: 400;
     opacity: 0;
 
-    animation: fade 0.5s 50ms forwards forwards;
+    animation-name: fade;
 }
 
 /* Animations */
