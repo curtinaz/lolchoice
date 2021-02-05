@@ -23,9 +23,9 @@ body h1 {
 
 @keyframes fade{
     from{
-
+        opacity: 0;
     }
     to{
-        
+
     }
 }
