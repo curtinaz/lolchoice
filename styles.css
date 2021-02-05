@@ -37,9 +37,9 @@ body h1 {
 
 @keyframes slideUp{
     from{
-
+        transform: translateY(20px);
     }
     to{
-        
+
     }
 }
