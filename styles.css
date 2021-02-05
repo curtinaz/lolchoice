@@ -21,7 +21,7 @@ body h1 {
 
     animation-name: fade;
     animation-fill-mode: forwards;
-    animation-duration: 0.5s;
+    animation-duration: 1s;
 }
 
 /* Animations */
