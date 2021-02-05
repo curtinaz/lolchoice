@@ -21,7 +21,7 @@ body h1 {
 
     animation-name: fade, slideUp;
     animation-fill-mode: forwards;
-    animation-duration: 1s;
+    animation-duration: 2s, 1s;
 }
 
 /* Animations */
