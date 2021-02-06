@@ -41,6 +41,7 @@ body h1 {
 #menu a:hover {
     letter-spacing: 2px;
     transition: 200ms;
+    color: rgb(31, 31, 31);
 }
 
 #menu a + a {
