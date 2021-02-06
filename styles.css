@@ -33,6 +33,7 @@ body h1 {
 
     opacity: 0;
     color: black;
+    text-transform: uppercase;
 }
 
 #menu a + a {
