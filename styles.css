@@ -32,6 +32,7 @@ body h1 {
     animation-delay: 400ms;
 
     opacity: 0;
+    color: black;
 }
 
 #menu a + a {
