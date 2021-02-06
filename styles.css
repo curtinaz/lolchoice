@@ -30,6 +30,8 @@ body h1 {
     animation-fill-mode: forwards;
     animation-duration: 2s;
     animation-delay: 400ms;
+
+    opacity: 0;
 }
 
 #menu a + a {
