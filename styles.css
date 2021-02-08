@@ -29,6 +29,10 @@ body h1 {
     background-color: rgb(228, 228, 228);
 }
 
+#menu:hover {
+    
+}
+
 #menu a {
     text-decoration: none;
     animation-name: fade;
