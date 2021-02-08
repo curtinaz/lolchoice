@@ -37,7 +37,9 @@ body h1 {
 
     text-decoration: none;
     animation-name: fade;
-
+    animation-fill-mode: forwards;
+    animation-duration: 2s;
+    animation-delay: 400ms;
 }
 
 #menu:hover {
