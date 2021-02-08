@@ -27,6 +27,8 @@ body h1 {
 #menu {
     padding: 8px;
     background-color: rgb(228, 228, 228);
+
+    width: 800px
 }
 
 #menu:hover {
@@ -45,7 +47,7 @@ body h1 {
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
     transition: 200ms;
-    
+
 }
 
 #menu a:hover {
