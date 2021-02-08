@@ -33,6 +33,7 @@ body h1 {
 
 #menu:hover {
     background-color: rgb(209, 209, 209);
+    transition: 800ms;
 }
 
 #menu a {
