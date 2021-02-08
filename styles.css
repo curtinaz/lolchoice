@@ -45,6 +45,7 @@ body h1 {
     text-transform: uppercase;
     font-family: 'Roboto', sans-serif;
     transition: 200ms;
+    
 }
 
 #menu a:hover {
