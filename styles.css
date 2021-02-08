@@ -24,6 +24,10 @@ body h1 {
     animation-duration: 2s, 0.5s;
 }
 
+#menu {
+    
+}
+
 #menu a {
     text-decoration: none;
     animation-name: fade;
