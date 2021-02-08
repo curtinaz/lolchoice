@@ -31,7 +31,7 @@ body h1 {
     width: 800px;
     transition: 800ms;
 
-    border-radius: 8px 8px;
+    border-radius: 8px 8px 0 ;
 }
 
 #menu:hover {
