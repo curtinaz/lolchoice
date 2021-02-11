@@ -40,11 +40,11 @@ body h1 {
     animation-fill-mode: forwards;
     animation-duration: 1s;
     animation-delay: 800ms;
-    
+    background-color: rgb(209, 209, 209);
 }
 
 #menu:hover {
-    background-color: rgb(209, 209, 209);
+
     transition: 800ms;
 }
 
