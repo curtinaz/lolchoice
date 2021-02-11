@@ -79,7 +79,14 @@ body h1 {
 }
 
 #content h1 {
+        margin: 80px 0 20px 0;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        opacity: 0;
     
+        animation-name: fade, slideUp;
+        animation-fill-mode: forwards;
+        animation-duration: 2s, 0.5s;
 }
 
 /* Animations */
