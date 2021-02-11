@@ -78,6 +78,10 @@ body h1 {
     background-color: rgb(228, 228, 228);
 }
 
+#content h1 {
+    
+}
+
 /* Animations */
 
 @keyframes fade{
