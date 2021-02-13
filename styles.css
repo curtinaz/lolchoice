@@ -78,6 +78,8 @@ body h1 {
 #content {
     opacity: 0;
 
+    width: 100%;
+
     animation-name: fade;
     animation-fill-mode: forwards;
     animation-duration: 2s;
