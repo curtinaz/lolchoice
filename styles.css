@@ -104,6 +104,10 @@ body h1 {
         animation-duration: 2s, 0.5s;
 }
 
+.noticia {
+    width: 105%;
+}
+
 /* Animations */
 
 @keyframes fade{
