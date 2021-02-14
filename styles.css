@@ -84,8 +84,6 @@ body h1 {
 
     width: 100%;
 
-    margin: 0 10px 0 10px;
-
     animation-name: fade;
     animation-fill-mode: forwards;
     animation-duration: 2s;
