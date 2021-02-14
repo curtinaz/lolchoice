@@ -29,6 +29,8 @@ body h1 {
 #menu {
     padding: 8px;
 
+    margin: 0 10px;
+
 
     width: 100%;
     transition: 800ms;
