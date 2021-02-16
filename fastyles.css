@@ -1,4 +1,6 @@
-
+.fa-user {
+    color: black;
+}
 
 .fa-user:hover {
     color: grey;
