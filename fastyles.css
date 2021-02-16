@@ -1,5 +1,6 @@
 .fa-user {
     color: black;
+    transition: 200ms;
 }
 
 .fa-user:hover {
